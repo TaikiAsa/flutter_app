@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04c08db5-ea1b-4110-a26b-4bc8522ac827" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e06xjRUMHgwp1ms2dV5ije2722" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../food_app_course" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\src\flutter_web_app2\lib\routes" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04c08db5-ea1b-4110-a26b-4bc8522ac827" name="Default Changelist" comment="" />
+      <created>1593446412341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593446412341</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="459" key="FileChooserDialogImpl" timestamp="1593531527545">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="451" y="459" key="FileChooserDialogImpl/0.0.2560.1400/-1920.569.1920.1040@0.0.2560.1400" timestamp="1593531527545" />
+    <state width="1295" height="226" key="GridCell.Tab.0.bottom" timestamp="1593533944430">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1295" height="226" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.569.1920.1040@0.0.2560.1400" timestamp="1593533944430" />
+    <state width="1295" height="226" key="GridCell.Tab.0.center" timestamp="1593533944430">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1295" height="226" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.569.1920.1040@0.0.2560.1400" timestamp="1593533944430" />
+    <state width="1295" height="226" key="GridCell.Tab.0.left" timestamp="1593533944430">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1295" height="226" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.569.1920.1040@0.0.2560.1400" timestamp="1593533944430" />
+    <state width="1295" height="226" key="GridCell.Tab.0.right" timestamp="1593533944430">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1295" height="226" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.569.1920.1040@0.0.2560.1400" timestamp="1593533944430" />
+    <state x="172" y="346" key="SettingsEditor" timestamp="1593531512533">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="172" y="346" key="SettingsEditor/0.0.2560.1400/-1920.569.1920.1040@0.0.2560.1400" timestamp="1593531512533" />
+    <state x="854" y="448" key="com.intellij.ide.util.TipDialog" timestamp="1593528908595">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="854" y="448" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.569.1920.1040@0.0.2560.1400" timestamp="1593528908595" />
+  </component>
+</project>
